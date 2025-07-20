@@ -38,6 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'ip_tracking',
+    'django_celery_beat',
+    
+    
 ]
 
 MIDDLEWARE = [
